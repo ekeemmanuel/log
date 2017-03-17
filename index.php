@@ -14,6 +14,9 @@
     <style>
         a{
             border: 1px solid;
+            padding: 4px;
+            background-color: aqua;
+            border-radius: 5px;
 
         }
     </style>
