@@ -13,10 +13,29 @@
     <title>Login</title>
 </head>
 <body>
-            <form method="get" action="submit.php">
-                    <label for="username"> Username: <input type="text" name="username" placeholder="Enter Username"/></label>
-                    <label for="password">  Password: <input  type="password" name="pass" placeholder="Enter Password"/></label>
-                    <input type="submit" value="Login"/>
+            <form method="post" action="submit.php">
+                <table align="center">
+                    <tr>
+                        <td>
+                            <label for="username"> Username:</label>
+                        </td>
+                        <td>
+                            <input type="text" name="username" placeholder="Enter Username"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="password">  Password:</label>
+                                </td
+                        <td><input  type="password" name="pass" placeholder="Enter Password"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <input type="submit" value="Login"/>
+                        </td>
+                    </tr>
+                </table>
 
 
 
