@@ -19,9 +19,9 @@ $password = $_POST['pass'];
 <body>
 
          <?php
-         echo $user ;
-         echo $password;
+         echo "Your username is {$user} <br> Your password is {$password}";
          ?>
 
 </body>
+
 </html>
