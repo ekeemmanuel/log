@@ -6,7 +6,7 @@
  * Time: 15:16
  */
 $user=$_POST['username'];
-$password = $_POST['password'];
+$password = $_POST['pass'];
 
 ?>
 
