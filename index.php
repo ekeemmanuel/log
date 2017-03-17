@@ -17,6 +17,14 @@
                 <table align="center">
                     <tr>
                         <td>
+                            <label for="fullname"> Full Name:</label>
+                        </td>
+                        <td>
+                            <input type="text" name="fullname" placeholder="Enter Full Name"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
                             <label for="username"> Username:</label>
                         </td>
                         <td>

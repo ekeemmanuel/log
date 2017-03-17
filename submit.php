@@ -5,6 +5,7 @@
  * Date: 17/03/2017
  * Time: 15:16
  */
+$fnam=$_POST['fullname'];
 $user=$_POST['username'];
 $password = $_POST['pass'];
 
@@ -19,7 +20,7 @@ $password = $_POST['pass'];
 <body>
 
          <?php
-         echo "Your username is {$user} <br> Your password is {$password}";
+         echo "Your Full Name is {$fnam}. <br> Your username is {$user}. <br> Your password is {$password}.";
          ?>
 <p>Click to return to <a href="index.php">login</a> page</p>
 </body>
