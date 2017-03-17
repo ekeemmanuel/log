@@ -26,8 +26,9 @@
                     <tr>
                         <td>
                             <label for="password">  Password:</label>
-                                </td
-                        <td><input  type="password" name="pass" placeholder="Enter Password"/>
+                        </td>
+                        <td>
+                            <input  type="password" name="pass" placeholder="Enter Password"/>
                         </td>
                     </tr>
                     <tr>
