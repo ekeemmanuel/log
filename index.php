@@ -11,6 +11,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
+    <style>
+        a{
+            border: 1px solid;
+            
+        }
+    </style>
 </head>
 <body>
             <form method="post" action="submit.php">
@@ -33,7 +39,7 @@
                     </tr>
                     <tr>
                         <td colspan="2" align="right">
-                            <input type="submit" value="Login"/>
+                           <a href="submit.php">
                         </td>
                     </tr>
                 </table>
