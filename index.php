@@ -14,7 +14,7 @@
     <style>
         a{
             border: 1px solid;
-            
+
         }
     </style>
 </head>
@@ -39,7 +39,7 @@
                     </tr>
                     <tr>
                         <td colspan="2" align="right">
-                           <a href="submit.php">
+                           <a href="submit.php">Login</a>
                         </td>
                     </tr>
                 </table>
