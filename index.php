@@ -14,9 +14,10 @@
     <style>
         a{
             border: 1px solid;
-            padding: 4px;
+            padding: 10px;
             background-color: aqua;
             border-radius: 5px;
+            margin: 5px;
 
         }
     </style>
