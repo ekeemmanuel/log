@@ -13,7 +13,7 @@
     <title>Login</title>
 </head>
 <body>
-            <form method="post" action="submit.php">
+            <form method="get" action="submit.php">
                     <label for="username"> Username: <input type="text" name="username" placeholder="Enter Username"/></label>
                     <label for="password">  Password: <input  type="password" name="pass" placeholder="Enter Password"/></label>
                     <input type="submit" value="Login"/>

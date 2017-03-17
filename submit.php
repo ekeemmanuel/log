@@ -5,8 +5,8 @@
  * Date: 17/03/2017
  * Time: 15:16
  */
-$user=$_POST['username'];
-$password = $_POST['pass'];
+$user=$_GET['username'];
+$password = $_GET['pass'];
 
 ?>
 
