@@ -32,8 +32,8 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="2" align="right">
-                           <a href="submit.php">
+                        <td colspan="2">
+                           <input type="submit" name="login">
                         </td>
                     </tr>
                 </table>
