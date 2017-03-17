@@ -21,7 +21,7 @@ $password = $_POST['pass'];
          <?php
          echo "Your username is {$user} <br> Your password is {$password}";
          ?>
-
+<p>Click to return to <a href="index.php">login</a> page</p>
 </body>
 
 </html>
