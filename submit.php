@@ -18,8 +18,10 @@ $password = $_POST['pass'];
 </head>
 <body>
 
-         <?php echo $user ?>
-         <?php echo $password ?>
+         <?php
+         echo $user ;
+         echo $password;
+         ?>
 
 </body>
 </html>

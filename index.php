@@ -32,7 +32,8 @@
                         </td>
                     </tr>
                     <tr>
-                        <td colspan="2">
+                        <td colspan="2
+                        ">
                            <input type="submit" name="login">
                         </td>
                     </tr>
